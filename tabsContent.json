@@ -1,0 +1,8 @@
+{
+  "tabs": [
+    {"name": "Home", "content": "Welcome to the Home Tab!."},
+    {"name": "Profile", "content": "This is the Profile Tab content."},
+    {"name": "Settings", "content": "Adjust your preferences here in Settings."},
+    {"name": "Help", "content": "Need help? Find the details herer."}
+  ]
+}
